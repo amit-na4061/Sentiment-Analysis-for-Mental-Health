@@ -1,9 +1,9 @@
-# Sentiment-Analysis-for-Mental-Health
+# Sentiment-Analysis-for-Mental-Health using Word2Vec
+
 # About Dataset
 This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. The dataset amalgamates raw data from multiple sources, cleaned and compiled to create a robust resource for developing chatbots and performing sentiment analysis.
 
 # Data Source:
-The dataset integrates information from the following Kaggle datasets:
 
 - 3k Conversations Dataset for Chatbot
 - Depression Reddit Cleaned
