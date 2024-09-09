@@ -1,5 +1,7 @@
 # Sentiment-Analysis-for-Mental-Health using Word2Vec
 
+![Anxiety Concept Illustration](https://github.com/your-username/your-repository-name/blob/main/images/anxiety-concept-illustration_114360-8074.jpg)
+
 # About Dataset
 This comprehensive dataset is a meticulously curated collection of mental health statuses tagged from various statements. The dataset amalgamates raw data from multiple sources, cleaned and compiled to create a robust resource for developing chatbots and performing sentiment analysis.
 
